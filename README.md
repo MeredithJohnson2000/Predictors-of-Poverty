@@ -1,6 +1,5 @@
 # Classification and Prediction of Poverty in the United States
-
-- Analysis of county-level census and education data to determine the most significant predictors of poverty within US counties
+- Analyzed county‑level census and education data to determine the most significant predictors of poverty within US counties
 - Skills:
   - Data processing and visualization
   - Principal Component Analysis (PCA)
